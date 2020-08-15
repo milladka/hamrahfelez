@@ -57,20 +57,8 @@
   font-size: 21px;
   font-weight: bold;
 }
-.abouttitle{
-  color: #6c6e71;
-  text-align: center;
-  margin: 0;
-  line-height: 1.15;
-  font-size: 3rem;
-}
-.abouttext{
-  font-size: 1.1rem;
-  line-height: 2;
-  text-align: right;
-  color: #6c6e71;
-  direction: rtl;
-}
+
+
 
 .title a:hover,
 .title a:focus,
@@ -146,6 +134,40 @@
 .logo {
   height: 1em;
 }
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+  .title {
+    font-size: 2rem;
+  }
+  .description{
+    font-size: 1rem;
+  }
+  .linko a{
+    font-size: 1rem
+  }
+  .card h3 {
+    font-size: 1rem;
+    text-align: center;
+  }
+  .card p {
+    font-size: 0.8rem;
+    text-align: center;
+    color: #a4a5a7;
+  }
+  .alert{
+    font-size: 1rem;
+    text-align: center;
+  }
+  .abouttitle{
+    text-align: center;
+    font-size: 2rem;
+  }
+  .abouttext{
+    font-size: 0.9rem;
+  }
+}
+
+
 
 @media (max-width: 600px) {
   .grid {
