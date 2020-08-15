@@ -24,7 +24,7 @@ export default function Home() {
             <a>درباره ما</a>
           </Link>
           <Link href="/contact">
-            <a>تماس  با ما</a>
+            <a>تماس  با عمرانی</a>
           </Link>
         </div>       
        
