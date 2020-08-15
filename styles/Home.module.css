@@ -58,18 +58,18 @@
   font-weight: bold;
 }
 .abouttitle{
-  font-size: 1.1rem;
-  line-height: 2;
-  text-align: right;
-  color: #6c6e71;
-  direction: rtl;
-}
-.abouttext{
   color: #6c6e71;
   text-align: center;
   margin: 0;
   line-height: 1.15;
   font-size: 3rem;
+}
+.abouttext{
+  font-size: 1.1rem;
+  line-height: 2;
+  text-align: right;
+  color: #6c6e71;
+  direction: rtl;
 }
 
 .title a:hover,
