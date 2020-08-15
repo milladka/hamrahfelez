@@ -49,7 +49,7 @@ export default function Home() {
           </a>
         </div>
       </main>
-      <div>
+      <div className={styles.alert}>
         وب سایت در حال بروزرسانی می باشد
       </div>
 
