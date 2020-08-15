@@ -5,46 +5,45 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Create Next App</title>
+        <title>همراه فلز آسیا</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Milad Karikjnknmi</a>
+           <a href="https://nextjs.org">همراه فلز آسیا</a>
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
+            خرید، فروش، تولید و توزیع آهن آلات  
         </p>
 
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
-            <h3>Documentation &rarr;</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
+            <h3>ارسال به تمام نقاط کشور &rarr;</h3>
+            <p>ناوگان همراه فلز آماده خدمت رسانی به شما</p>
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
-            <h3>Learn &rarr;</h3>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
+            <h3>ارائه فاکتور رسمی &rarr;</h3>
+            <p>صدور فاکتور رسمی با جزئیات سفارش</p>
           </a>
 
           <a
             href="https://github.com/vercel/next.js/tree/master/examples"
             className={styles.card}
           >
-            <h3>Examples &rarr;</h3>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+            <h3>سفارش سریع &rarr;</h3>
+            <p>خریدی ساده، سریع و مطمئن</p>
           </a>
 
           <a
             href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
           >
-            <h3>Deploy &rarr;</h3>
+            <h3>مشتری مداری &rarr;</h3>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+              برآورده سازی خواسته ها و انتظارات مشتریان              
             </p>
           </a>
         </div>
@@ -56,7 +55,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{' '}
+          ساخته شده با {' '}
           <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
         </a>
       </footer>
