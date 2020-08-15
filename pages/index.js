@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-           <a href="https://nextjs.org">همراه فلز آسیا</a>
+           <a href="https://hamrahfelez.com">همراه فلز آسیا</a>
         </h1>
 
         <p className={styles.description}>
@@ -19,18 +19,18 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
+          <a href="https://hamrahfelez.com" className={styles.card}>
             <h3>ارسال به تمام نقاط کشور &rarr;</h3>
-            <p>ناوگان همراه فلز آماده خدمت رسانی به شما</p>
+            <p>همراه فلز آماده خدمت رسانی به شما</p>
           </a>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
+          <a href="https://hamrahfelez.com" className={styles.card}>
             <h3>ارائه فاکتور رسمی &rarr;</h3>
             <p>صدور فاکتور رسمی با جزئیات سفارش</p>
           </a>
 
           <a
-            href="https://github.com/vercel/next.js/tree/master/examples"
+            href="https://hamrahfelez.com"
             className={styles.card}
           >
             <h3>سفارش سریع &rarr;</h3>
@@ -38,12 +38,12 @@ export default function Home() {
           </a>
 
           <a
-            href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://hamrahfelez.com"
             className={styles.card}
           >
             <h3>مشتری مداری &rarr;</h3>
             <p>
-              برآورده سازی خواسته ها و انتظارات مشتریان              
+              برآورده سازی انتظارات مشتریان              
             </p>
           </a>
         </div>
