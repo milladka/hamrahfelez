@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
+import Link from 'next/link'
 
 export default function Home() {
   return (
@@ -19,6 +20,15 @@ export default function Home() {
             خرید، فروش، تولید و توزیع آهن آلات  
         </p>
 
+        <div>
+        <Link href="/about">
+          <a>درباره همراه فلز</a>
+        </Link>
+        <Link href="/contact">
+          <a>تماس با همراه فلز</a>
+        </Link>
+        </div>       
+       
         <div className={styles.grid}>
           <a href="https://hamrahfelez.com" className={styles.card}>
             <h3>ارسال به تمام نقاط کشور &rarr;</h3>
