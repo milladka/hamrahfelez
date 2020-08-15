@@ -10,6 +10,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
+        <img src="/logoColor2.png" alt="hamrahfelez" />
         <h1 className={styles.title}>
            <a href="https://hamrahfelez.com">همراه فلز آسیا</a>
         </h1>
