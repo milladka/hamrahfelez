@@ -47,6 +47,15 @@
   font-weight: bold;
   box-shadow: 0px -4px 15px 0px #d0d0d0;
 }
+.linko{
+  display: flex;
+}
+.linko a{
+  padding: 0 15px;
+  color: #b18f51;
+  font-size: 21px;
+  font-weight: bold;
+}
 
 .title a:hover,
 .title a:focus,

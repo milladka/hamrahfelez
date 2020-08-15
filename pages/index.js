@@ -20,7 +20,7 @@ export default function Home() {
             خرید، فروش، تولید و توزیع آهن آلات  
         </p>
 
-        <div>
+        <div className={styles.linko}>
         <Link href="/about">
           <a>درباره همراه فلز</a>
         </Link>
