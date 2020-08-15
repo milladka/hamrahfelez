@@ -10,12 +10,12 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>
+        <h1 className={styles.abouttitle}>
           درباره همراه فلز
         </h1>
 
         <div className={styles.grid}>
-        <p className={styles.description}>
+        <p className={styles.abouttext}>
         شرکت همراه فلز آسیا با گذشت بیش از ۳۰ سال فعالیت در صنعت فولاد، حوزه ورق و لوله های فولادی و همچنین کسب رضایت از مشتریان، فعالیت خود را از سال 1397 بصورت رسمی آغاز نموده است.
 
 از بزرگترین اهداف همراه فلز ارائه مشاوره تخصصی برای مشتریان، ارائه محصول به سراسر کشور و همچنین مرجع قیمت گذاری در این حوزه می باشد. که تاکنون به این مهم نیز دست یافته است.
