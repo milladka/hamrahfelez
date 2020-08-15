@@ -19,14 +19,13 @@ export default function Home() {
         <p className={styles.description}>
             خرید، فروش، تولید و توزیع آهن آلات  
         </p>
-
         <div className={styles.linko}>
-        <Link href="/about">
-          <a>درباره همراه فلز</a>
-        </Link>
-        <Link href="/contact">
-          <a>تماس با همراه فلز</a>
-        </Link>
+          <Link href="/about">
+            <a>درباره ما</a>
+          </Link>
+          <Link href="/contact">
+            <a>تماس  با ما</a>
+          </Link>
         </div>       
        
         <div className={styles.grid}>
