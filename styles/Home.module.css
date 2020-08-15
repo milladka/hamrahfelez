@@ -134,6 +134,12 @@
 .logo {
   height: 1em;
 }
+.abouttext{
+  color: #6c6e71;
+  line-height: 2;
+  text-align: right;
+  direction: rtl;
+}
 
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
   .title {
