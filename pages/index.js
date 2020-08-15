@@ -49,6 +49,9 @@ export default function Home() {
           </a>
         </div>
       </main>
+      <div>
+        وب سایت در حال بروزرسانی می باشد
+      </div>
 
       <footer className={styles.footer}>
         <a
