@@ -30,12 +30,12 @@ export default function Home() {
        
         <div className={styles.grid}>
           <a href="https://hamrahfelez.com" className={styles.card}>
-            <h3>ارسال به تمام نقاط کشور &rarr;</h3>
+            <h3>ارسال به تمام نقاط کشور</h3>
             <p>همراه فلز آماده خدمت رسانی به شما</p>
           </a>
 
           <a href="https://hamrahfelez.com" className={styles.card}>
-            <h3>ارائه فاکتور رسمی &rarr;</h3>
+            <h3>ارائه فاکتور رسمی</h3>
             <p>صدور فاکتور رسمی با جزئیات سفارش</p>
           </a>
 
@@ -43,7 +43,7 @@ export default function Home() {
             href="https://hamrahfelez.com"
             className={styles.card}
           >
-            <h3>سفارش سریع &rarr;</h3>
+            <h3>سفارش سریع</h3>
             <p>خریدی ساده، سریع و مطمئن</p>
           </a>
 
@@ -51,7 +51,7 @@ export default function Home() {
             href="https://hamrahfelez.com"
             className={styles.card}
           >
-            <h3>مشتری مداری &rarr;</h3>
+            <h3>مشتری مداری</h3>
             <p>
               برآورده سازی انتظارات مشتریان              
             </p>
