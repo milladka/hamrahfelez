@@ -16,20 +16,20 @@ export default function Home() {
 
         <div className={styles.grid}>
             <div href="https://hamrahfelez.com" className={styles.card}>
-                <h3>آدرس &rarr;</h3>
+                <h3>آدرس</h3>
                 <p>پاسدارن-کوهستان یک-پلاک ۴-واحد۲۰۲</p>
             </div>
             <div href="https://hamrahfelez.com" className={styles.card}>
-                <h3>تلفن &rarr;</h3>
-                <p>۰۲۱۷۹۲۱۷</p>
+                <h3>تلفن</h3>
+                <p className="phonetext">۰۲۱۷۹۲۱۷</p>
             </div>
             <div href="https://hamrahfelez.com" className={styles.card}>
-                <h3>ایمیل &rarr;</h3>
-                <p>info@hamrahfelez.com</p>
+                <h3>ایمیل</h3>
+                <p className="lefttext">info@hamrahfelez.com</p>
             </div>
             <div href="https://hamrahfelez.com" className={styles.card}>
-                <h3>تماس با اپراتور &rarr;</h3>
-                <p>۰۲۱۲۶۶۵۱۵۷۹</p>
+                <h3>تماس با اپراتور</h3>
+                <p className="lefttext">۰۲۱۲۶۶۵۱۵۷۹</p>
             </div> 
 
         </div>

@@ -140,6 +140,16 @@
   text-align: right;
   direction: rtl;
 }
+.phonetext{
+  font-size: 2.2rem;
+  text-align: left;
+  font-weight: bold;
+  letter-spacing: 2px;
+  color: #6c6e71;
+}
+.lefttext{
+  text-align: left;
+}
 
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
   .title {
