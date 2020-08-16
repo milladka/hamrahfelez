@@ -21,15 +21,15 @@ export default function Home() {
             </div>
             <div href="https://hamrahfelez.com" className={styles.card}>
                 <h3>تلفن</h3>
-                <p className="phonetext">۰۲۱۷۹۲۱۷</p>
+                <p className={styles.phonetext}>۰۲۱۷۹۲۱۷</p>
             </div>
             <div href="https://hamrahfelez.com" className={styles.card}>
                 <h3>ایمیل</h3>
-                <p className="lefttext">info@hamrahfelez.com</p>
+                <p className={styles.lefttext}>info@hamrahfelez.com</p>
             </div>
             <div href="https://hamrahfelez.com" className={styles.card}>
                 <h3>تماس با اپراتور</h3>
-                <p className="lefttext">۰۲۱۲۶۶۵۱۵۷۹</p>
+                <p className={styles.lefttext}>۰۲۱۲۶۶۵۱۵۷۹</p>
             </div> 
 
         </div>
