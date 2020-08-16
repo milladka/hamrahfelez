@@ -21,7 +21,7 @@ export default function Home() {
             </div>
             <div href="https://hamrahfelez.com" className={styles.card}>
                 <h3>تلفن</h3>
-                <p className={styles.phonetext}>۰۲۱۷۹۲۱۷</p>
+                <p className={styles.phonetext}>۰۲۱-۷۹۲۱۷</p>
             </div>
             <div href="https://hamrahfelez.com" className={styles.card}>
                 <h3>ایمیل</h3>
