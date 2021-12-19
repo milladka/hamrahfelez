@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /cdn-cgi/
+Disallow: /author/
+Disallow: /seller/
+Disallow: /*.htm$
+Disallow: /*.cfm$
+
+Sitemap: https://hamrahfelez.com/sitemap.xml
