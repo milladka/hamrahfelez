@@ -17,7 +17,7 @@ export default function Home() {
         <div className={styles.grid}>
             <div href="https://hamrahfelez.com" className={styles.card}>
                 <h3>آدرس</h3>
-                <p className={styles.addressp}>پاسدارن-کوهستان یک-پلاک ۴-واحد۲۰۲</p>
+                <p className={styles.addressp}>پاسدارن، عابدین زاده، پلاک 23</p>
             </div>
             <div href="https://hamrahfelez.com" className={styles.card}>
                 <h3>تلفن</h3>
