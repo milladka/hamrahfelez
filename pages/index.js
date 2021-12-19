@@ -6,8 +6,11 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>همراه فلز آسیا</title>
+        <title>همراه فلز: قیمت آهن آلات | قیمت روز آهن در بازار و کارخانه</title>
+        <meta name="robots" content="index, follow" />
         <link rel="icon" href="/favicon.ico" />
+        <meta name="description" content="سایت همراه فلز؛ اطلاع از قیمت امروز انواع میلگرد، ورق فولادی، محصولات مفتولی، تیرآهن و هاش، لوله و پروفیل، نبشی و ناودانی و انواع شیرآلات و اتصالات." />
+        <link rel="canonical" href="https://hamrahfelez.com/" /> 
       </Head>
 
       <main className={styles.main}>
@@ -20,10 +23,10 @@ export default function Home() {
             خرید، فروش، تولید و توزیع آهن آلات  
         </p>
         <div className={styles.linko}>
-          <Link href="/about">
+          <Link href="/about-us/">
             <a>درباره ما</a>
           </Link>
-          <Link href="/contact">
+          <Link href="/contact-us/">
             <a>تماس  با ما</a>
           </Link>
         </div>       

@@ -5,8 +5,11 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>همراه فلز آسیا | ارتباط با ما</title>
+        <title>تماس با همراه فلز: قیمت آهن آلات | قیمت روز آهن در بازار و کارخانه</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta name="robots" content="index, follow" />
+        <meta name="description" content="سایت همراه فلز؛ اطلاع از قیمت امروز انواع میلگرد، ورق فولادی، محصولات مفتولی، تیرآهن و هاش، لوله و پروفیل، نبشی و ناودانی و انواع شیرآلات و اتصالات." />
+        <link rel="canonical" href="https://hamrahfelez.com/contact-us/" /> 
       </Head>
 
       <main className={styles.main}>
@@ -15,19 +18,19 @@ export default function Home() {
         </h1>
 
         <div className={styles.grid}>
-            <div href="https://hamrahfelez.com" className={styles.card}>
+            <div href="https://hamrahfelez.com/" className={styles.card}>
                 <h3>آدرس</h3>
                 <p className={styles.addressp}>پاسدارن، عابدین زاده، پلاک ۲۳</p>
             </div>
-            <div href="https://hamrahfelez.com" className={styles.card}>
+            <div href="https://hamrahfelez.com/" className={styles.card}>
                 <h3>تلفن</h3>
                 <p className={styles.phonetext}>۰۲۱-۷۹۲۱۷</p>
             </div>
-            <div href="https://hamrahfelez.com" className={styles.card}>
+            <div href="https://hamrahfelez.com/" className={styles.card}>
                 <h3>ایمیل</h3>
                 <p className={styles.lefttext}>info@hamrahfelez.com</p>
             </div>
-            <div href="https://hamrahfelez.com" className={styles.card}>
+            <div href="https://hamrahfelez.com/" className={styles.card}>
                 <h3>تماس با اپراتور</h3>
                 <p className={styles.lefttext}>۰۲۱۲۶۶۵۱۵۷۹</p>
             </div> 
